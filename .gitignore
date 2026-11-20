@@ -1,0 +1,15 @@
+/build/
+/dist/
+*.exe
+*.pdb
+*.zip
+*.bin
+*.dpapi
+*.note
+*.plan
+auth.json
+auth.json.*
+.codex/
+CodexLocalSwitcher/
+login-*/
+quota-*/
